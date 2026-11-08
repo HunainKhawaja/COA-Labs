@@ -1,0 +1,1 @@
+This task has a heading but no source code in the supplied PDF.
