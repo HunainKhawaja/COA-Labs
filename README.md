@@ -69,52 +69,6 @@ COA-Labs/
 └── README.md
 ```
 
-Each lab contains its corresponding tasks, organized using the naming convention:
-
-- `l1t1` — Lab 1, Task 1
-- `l1t2` — Lab 1, Task 2
-- `l3t2` — Lab 3, Task 2
-
-Source files use `.v` for Verilog and `.s` for RISC-V Assembly. Tasks containing multiple implementations are organized with descriptive filenames.
-
----
-
-## Learning Outcomes
-
-Through these laboratory exercises, the following concepts were explored:
-
-- Digital logic design using Verilog HDL
-- Gate-level, dataflow and behavioral modeling
-- Combinational circuit implementation
-- RISC-V arithmetic and logical instructions
-- Memory operations and control flow
-- Stack management and procedure execution
-- Arithmetic Logic Unit (ALU) design
-- Program Counter and instruction-memory implementation
-- Register File architecture and data selection
-
----
-
-## Running the Projects
-
-**Verilog Projects (Labs 1–3, 7–9)**
-
-1. Open ModelSim.
-2. Create a project and add the relevant `.v` file.
-3. Compile the Verilog modules.
-4. Simulate the relevant testbench.
-5. Observe the simulation results and waveforms.
-
-**RISC-V Assembly Projects (Labs 4–6)**
-
-1. Open the Venus RISC-V simulator.
-2. Load the relevant `.s` source file.
-3. Assemble and execute the program.
-4. Inspect registers, memory and output.
-
-> **Note:** Source code has been organized from the original laboratory reports and preserved as submitted. Some programs may require debugging or simulator-specific configuration. Refer to `EXTRACTION_NOTES.md` for additional details.
-
----
 
 ## Author
 
